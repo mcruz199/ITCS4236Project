@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 3546dea4198e638488bc479c2bb7aa5b
+  - enabled: 1
+    path: Assets/Scenes/Room 1.unity
+    guid: 40e38a3a0c3b73d4989ac6c8b5310a9c
+  - enabled: 1
+    path: Assets/Scenes/Room 2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Room 3.unity
+    guid: d361982010282b1428c6711eeae620ec
+  - enabled: 1
+    path: Assets/Scenes/Room 4.unity
+    guid: 7a4a965071666b743ab62afa4c7c9725
+  - enabled: 1
+    path: Assets/Scenes/Room 5.unity
+    guid: 28f3f81e61adf2846a6dfae047751ae1
+  - enabled: 1
+    path: Assets/Scenes/Room 6.unity
+    guid: 2adf0a55efddf35468ea26b8916f0e54
+  - enabled: 1
+    path: Assets/Scenes/Room 7.unity
+    guid: 13de8deccd191bb498caa281328ccb69
+  - enabled: 1
+    path: Assets/Scenes/Room 8.unity
+    guid: 5a93687eca57a1e449c488456b2db612
+  - enabled: 1
+    path: Assets/Scenes/Room 9.unity
+    guid: f7f521b7b8beedb4d99f5b72f7dfce97
+  - enabled: 1
+    path: Assets/Scenes/Complete Screen.unity
+    guid: b33f415619bc82c49832bb8601b58935
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 64f3867191b16854d80f16c00f5f79fe
+  - enabled: 1
+    path: Assets/Scenes/Room 10.unity
+    guid: 6fd45595b0dc42642ac41c016cd203a6
+  m_configObjects: {}
